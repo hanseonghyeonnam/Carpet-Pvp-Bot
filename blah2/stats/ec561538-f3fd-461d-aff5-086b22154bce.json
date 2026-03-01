@@ -1,0 +1,44 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 2
+    },
+    "minecraft:mined": {
+      "minecraft:torch": 3,
+      "minecraft:wall_torch": 3,
+      "minecraft:wheat": 5,
+      "minecraft:carrots": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 69,
+      "minecraft:wheat_seeds": 10,
+      "minecraft:wheat": 2,
+      "minecraft:golden_chestplate": 2,
+      "minecraft:torch": 6
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 81047,
+      "minecraft:total_world_time": 204740,
+      "minecraft:leave_game": 5,
+      "minecraft:damage_taken": 2964,
+      "minecraft:damage_dealt": 1416,
+      "minecraft:play_time": 127815,
+      "minecraft:deaths": 2,
+      "minecraft:jump": 2244,
+      "minecraft:time_since_death": 81047,
+      "minecraft:drop": 16
+    },
+    "minecraft:used": {
+      "minecraft:torch": 2,
+      "minecraft:dirt": 243
+    },
+    "minecraft:dropped": {
+      "minecraft:golden_chestplate": 2,
+      "minecraft:wheat_seeds": 9,
+      "minecraft:wheat": 2,
+      "minecraft:torch": 2,
+      "minecraft:dirt": 1
+    }
+  },
+  "DataVersion": 4671
+}
